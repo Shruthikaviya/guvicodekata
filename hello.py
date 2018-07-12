@@ -1,3 +1,4 @@
 a='Hello'
-for i in range(2):
+n=int(input())
+for i in range(n):
 	print(a)
